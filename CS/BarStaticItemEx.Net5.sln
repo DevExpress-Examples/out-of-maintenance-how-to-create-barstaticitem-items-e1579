@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarStaticItemEx", "BarStaticItemEx\BarStaticItemEx.csproj", "{11691DC4-D266-49EE-A874-9E1EF5AC1055}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarStaticItemEx", "BarStaticItemEx\BarStaticItemEx.Net5.csproj", "{11691DC4-D266-49EE-A874-9E1EF5AC1055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
