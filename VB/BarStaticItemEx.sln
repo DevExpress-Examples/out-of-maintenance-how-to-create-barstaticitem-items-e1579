@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BarStaticItemEx", "BarStaticItemEx\BarStaticItemEx.vbproj", "{11691DC4-D266-49EE-A874-9E1EF5AC1055}"
 EndProject
